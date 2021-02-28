@@ -1,0 +1,8 @@
+# the whole .vscode folder
+.vscode/*
+
+#Vscode Workspace files
+*.code-workspace
+
+# especially all the .json files
+.vscode/*.json
